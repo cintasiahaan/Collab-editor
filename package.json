@@ -1,0 +1,44 @@
+{
+    "$schema": "https://www.schemastore.org/package.json",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "build": "vite build",
+        "dev": "vite"
+    },
+    "devDependencies": {
+        "@inertiajs/vue3": "^2.0.0",
+        "@laravel/echo-vue": "^2.3.4",
+        "@tailwindcss/forms": "^0.5.3",
+        "@tailwindcss/vite": "^4.0.0",
+        "@vitejs/plugin-vue": "^6.0.0",
+        "autoprefixer": "^10.4.12",
+        "concurrently": "^9.0.1",
+        "laravel-echo": "^2.3.4",
+        "laravel-vite-plugin": "^3.1",
+        "postcss": "^8.4.31",
+        "pusher-js": "^8.5.0",
+        "tailwindcss": "^3.2.1",
+        "vite": "^8.0.0",
+        "vue": "^3.4.0"
+    },
+    "dependencies": {
+        "@headlessui/vue": "^1.7.23",
+        "@heroicons/vue": "^2.2.0",
+        "@tiptap/extension-color": "^3.23.4",
+        "@tiptap/extension-highlight": "^3.23.4",
+        "@tiptap/extension-image": "^3.23.4",
+        "@tiptap/extension-table": "^3.23.4",
+        "@tiptap/extension-task-item": "^3.23.4",
+        "@tiptap/extension-task-list": "^3.23.4",
+        "@tiptap/extension-text-style": "^3.23.4",
+        "@tiptap/pm": "^3.23.4",
+        "@tiptap/starter-kit": "^3.23.4",
+        "@tiptap/vue-3": "^3.23.4",
+        "clsx": "^2.1.1",
+        "lucide-vue-next": "^1.0.0",
+        "motion-v": "^2.2.1",
+        "tailwind-merge": "^3.6.0",
+        "vue-sonner": "^2.0.9"
+    }
+}
